@@ -1,0 +1,14 @@
+{
+  "installed": {
+    "client_id": "your_info_here",
+    "project_id": "your_info_here",
+    "auth_uri": "your_info_here",
+    "token_uri": "your_info_here",
+    "auth_provider_x509_cert_url": "your_info_here",
+    "client_secret": "your_info_here",
+    "redirect_uris": [
+      "your_info_here",
+      "your_info_here"
+    ]
+  }
+}
