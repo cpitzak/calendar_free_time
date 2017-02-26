@@ -167,6 +167,7 @@ class FreeTime:
             else:
                 print("\nAvailability next week:")
             current_day += datetime.timedelta(days=1)
+        print("\nSchedule created by my Google Calendar Python program, source: https://github.com/cpitzak/calendar_free_time")
 
 
 if __name__ == '__main__':
